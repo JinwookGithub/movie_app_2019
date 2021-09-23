@@ -1,0 +1,1 @@
+react 쓰려면 webpack, babel 등등 설치해야함 -> 이제 great-react-app 사용하면 set up 한번에 해줌
